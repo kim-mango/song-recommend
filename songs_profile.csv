@@ -1,0 +1,21 @@
+﻿id,title,artist,audio_path,min_note,max_note,tone_brightness,tone_weight
+1,Drowning,WOODZ,audio\Drowning(WOODZ).mp3,C2,G♯4,0.647,1.0
+2,Golden,HUNTR_X,audio\Golden(HUNTR_X).mp3,C2,G♯5,0.573,1.0
+3,IRIS OUT,요네즈켄시,audio\IRIS OUT(요네즈켄시).mp3,C2,A♯5,0.7,1.0
+4,My Love,버즈,audio\My Love(버즈).mp3,C2,G4,0.537,1.0
+5,Pretender,Official髭男dism,audio\Pretender(Official髭男dism).mp3,C2,A♯4,0.584,1.0
+6,가질수없는너,뱅크,audio\가질수없는너(뱅크).mp3,C2,F4,0.369,1.0
+7,끝사랑,김범수,audio\끝사랑(김범수).mp3,C2,F4,0.352,1.0
+8,나였으면,나윤권,audio\나였으면(나윤권).mp3,C2,F♯4,0.451,1.0
+9,남자를몰라,버즈,audio\남자를몰라(버즈).mp3,C2,A4,0.524,1.0
+10,눈사람,정승환,audio\눈사람(정승환).mp3,C2,G4,0.288,1.0
+11,모르시나요,조째즈,audio\모르시나요(조째즈).mp3,C2,B4,0.421,1.0
+12,사랑하게될거야,한로로,audio\사랑하게될거야(한로로).mp3,C2,B4,0.421,1.0
+13,시작의아이,마크툽,audio\시작의아이(마크툽).mp3,C2,B4,0.512,1.0
+14,어디에도,엠씨더맥스,audio\어디에도(엠씨더맥스).mp3,C♯2,A♯4,0.506,1.0
+15,어제보다슬픈오늘,우디,audio\어제보다슬픈오늘(우디).mp3,C2,G4,0.412,1.0
+16,응급실,izi,audio\응급실(izi).mp3,C2,D♯4,0.484,1.0
+17,좋니,윤종신,audio\좋니(윤종신).mp3,C2,G♯4,0.416,1.0
+18,참다행이야,S.Papa,audio\참다행이야(S.Papa).mp3,C2,D♯4,0.462,1.0
+19,천상연,이창섭,audio\천상연(이창섭).mp3,C♯2,F4,0.441,1.0
+20,첫눈처럼너에게가겠다,에일리,audio\첫눈처럼너에게가겠다(에일리).mp3,C2,C5,0.409,1.0
